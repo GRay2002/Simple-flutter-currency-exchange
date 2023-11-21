@@ -70,6 +70,3 @@ Contributions are welcome! If you have suggestions for improvements, encounter i
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to adjust the content as needed, and add any specific details about your app or development environment.
